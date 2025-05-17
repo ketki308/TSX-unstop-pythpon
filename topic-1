@@ -1,1 +1,12 @@
+#print your name and greetings
 
+name="ketki"
+print(f"Hello this is {name} , nice to meet you")
+
+#this is single line comment .
+
+"""this 
+is 
+multiple
+line 
+comment"""
